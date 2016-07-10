@@ -2,8 +2,8 @@ public class MainTest{
 
 public static void main(String args[]){
 
+System.out.println("Second Commit");
 
-System.out.println("First Commit");
 }
 
 }
